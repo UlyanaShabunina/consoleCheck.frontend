@@ -47,19 +47,34 @@ top: 131px;
 border: 1px solid #ADADAD;
 transform: rotate(89.94deg);}
 
-p{
+.xboxbut{
 position: absolute;
 width: 250px;
+color: white;
 height: 64px;
 left: 51px;
-top: 648px;
+top: 664px;
+text-decoration: none;
+
 
 background: #18B415;
 mix-blend-mode: normal;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+box-shadow: 0 -3px rgb(53,167,110) inset;
+transition: 0.2s;
 border-radius: 40px;
+font-family: Ubuntu;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 55px;
 }
-p2{
+.xboxbut:hover { background: #289426; }
+.xboxbut:active {
+  background: #027400;
+  box-shadow: 0 3px rgb(33,147,90) inset;
+}
+
+.switchbut{
 position: absolute;
 width: 250px;
 height: 64px;
@@ -134,4 +149,23 @@ width: 126px;
 height: 84px;
 left: 50px;
 top: 6px;
+}
+
+.xboxtext{
+position: absolute;
+width: 117px;
+height: 49px;
+left: 70px;
+top: 5px;
+
+font-family: Ubuntu;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 55px;
+
+color: #FFFFFF;
+}
+.xboxtext:hover{
+color: #D0D0D0;
 }

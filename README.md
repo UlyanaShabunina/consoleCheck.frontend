@@ -15,3 +15,4 @@
 + [Miro](https://miro.com/app/board/uXjVOKkC3Lk=/)
 ## Документы:
 + [Техническое задание](https://docs.google.com/document/d/1P21iZ_QjxxiUyzB6k5ZkgpgdNoJM0QJzOXb-4q8U2y8/edit#heading=h.cu4pdv9h7vzu)
++ [Figma](https://www.figma.com/file/RA5cZbid5lvd56mCNshUpM/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD-Ps5?node-id=0%3A1)

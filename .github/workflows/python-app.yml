@@ -46,11 +46,7 @@ jobs:
             herokuAppName: team4-2-2
             # Heroku API key
             herokuApiKey: 23c3a0b7-e3de-49d4-807d-8fe85a1865bc
-            # Selected branch to deployment
-            useDocker: # optional, default is
-            # Selected branch to deployment
-            branch: # optional, default is HEAD
-            # Selected Application Dir
-            dir: # optional, default is
+
+
 
 

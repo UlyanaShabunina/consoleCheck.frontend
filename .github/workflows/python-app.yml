@@ -43,7 +43,7 @@ jobs:
           uses: ElayGelbart/Heroku-Auto-Deployment@v1.0.7
           with:
             # Name of the heroku application to which the build is to be sent.
-            herokuAppName: app.py
+            herokuAppName: team4-2-2
             # Heroku API key
             herokuApiKey: 23c3a0b7-e3de-49d4-807d-8fe85a1865bc
 

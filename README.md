@@ -3,6 +3,7 @@
 Клиент сервервное веб приложение для ослеживания наличия консолей нового поколения на популярных торговых площадках.
 
 [![Python application](https://github.com/Team4-2-2/consoleCheck.frontend/actions/workflows/python-app.yml/badge.svg?branch=main)](https://github.com/Team4-2-2/consoleCheck.frontend/actions/workflows/python-app.yml)
+![GitHub issues](https://img.shields.io/github/issues/Team4-2-2/consoleCheck.frontend)
 
 ## Разработчики:
 

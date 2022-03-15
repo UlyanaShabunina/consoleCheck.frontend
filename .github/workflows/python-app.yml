@@ -48,6 +48,7 @@ jobs:
             heroku_email: dimeblag@bk.ru
             # The appname to use for deploying/updating
             heroku_app_name: team4-2-2
+            team: Team4-2-2
 
 
 

@@ -16,5 +16,6 @@
 + [Figma](https://www.figma.com/file/RA5cZbid5lvd56mCNshUpM/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD-Ps5?node-id=0%3A1)
 ## Документы:
 + [Техническое задание](https://docs.google.com/document/d/1P21iZ_QjxxiUyzB6k5ZkgpgdNoJM0QJzOXb-4q8U2y8/edit#)
++ [Курсовая работа](https://docs.google.com/document/d/1GWmpvs0gx6mIxjq4GQkt-TOY7q1xYsP-q1kOzggcF1Q/edit?usp=sharing)
 ## Сайт:
 + [Тестовый сервер](https://team4-2-2.herokuapp.com/)
